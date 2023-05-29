@@ -1,5 +1,6 @@
-[![MasterHead](https://github.com/RoaPro9/RoaPro9/assets/70070721/01c1040c-0b73-4301-a44b-00ee8b099db6)](https://rishavchanda.io)
-
+<a href="https://rishavchanda.io">
+  <img src="https://i.pinimg.com/originals/d9/d3/58/d9d358be24f3186070cfc996b04e1984.gif" alt="MasterHead" width="1000" height="200">
+</a>
 <h1 align="center">Hi 👋, I'm Roa Mohamed</h1>
 <h3 align="center">A Software Engineer</h3>
 
@@ -8,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/roamoha9" target="blank"><img src="https://img.shields.io/twitter/follow/roamoha9?logo=twitter&style=for-the-badge" alt="roamoha9" /></a> </p>
 
-- 🔭 I’m currently working on **Vivid wgich is an AR ios App**
+- 🔭 I’m currently working on **Vivid which is an AR ios App**
 
 - 🌱 I’m currently learning **ARKit and Vapor**
 
