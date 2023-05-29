@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/d9/d3/58/d9d358be24f3186070cfc996b04e1984.gif" alt="MasterHead" width="1000" height="200">
 </a>
 <h1 align="center">Hi 👋, I'm Roa Mohamed</h1>
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roapro9&label=Profile%20views&color=0e75b6&style=flat" alt="roapro9" /> </p>
