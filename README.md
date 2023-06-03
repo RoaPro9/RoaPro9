@@ -1,5 +1,5 @@
 <a href="https://rishavchanda.io">
-  <img src="https://i.pinimg.com/originals/d9/d3/58/d9d358be24f3186070cfc996b04e1984.gif" alt="MasterHead" width="1000" height="200">
+  <img src="https://cdn.dribbble.com/users/3911518/screenshots/11294230/media/c40ee1a764a5219e5866cc871fbcb9ae.gif" alt="MasterHead" width="1000" height="200">
 </a>
 <h1 align="center">Hi 👋, I'm Roa Mohamed</h1>
 <h3 align="center">Software Engineer</h3>
